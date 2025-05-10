@@ -15,5 +15,6 @@ Import csv file into SQL </br>
 6.	Operational Metrics: Weekly KPIs highlight consistent growth in total transaction value and customer engagement. </br> Average revenue per transaction has increased in recent quarters, indicating higher-value card usage.
 # Dashboard:
 ![image](https://github.com/user-attachments/assets/8edc5757-09c6-4d7b-a6d2-da00f976adc6)
+![Credit_Card_Report-customer_page-0001 (1)](https://github.com/user-attachments/assets/07e781d1-0157-471e-9a31-81832e4cf1b7)
 
 
