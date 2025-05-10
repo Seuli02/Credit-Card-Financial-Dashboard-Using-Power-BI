@@ -13,6 +13,5 @@ Import csv file into SQL </br>
 4.	Spending Trends: Grocery and Travel are the top spending categories, indicating everyday and lifestyle usage. </br> Quarterly data reveals a steady increase in transaction volume and revenue over time.
 5.	Geographic Performance: States like California and Texas (or whichever states are top in your dataset) show the highest transaction counts and revenue, making them priority regions for targeted campaigns.
 6.	Operational Metrics: Weekly KPIs highlight consistent growth in total transaction value and customer engagement. </br> Average revenue per transaction has increased in recent quarters, indicating higher-value card usage.
-# Dashboard:
-
+# Dashboard: ![https://github.com/Seuli02/Credit-Card-Financial-Dashboard-Using-Power-BI/blob/main/Credit_Card_Report-%20Transaction_page-0001.jpg]
 
